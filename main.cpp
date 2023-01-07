@@ -1,11 +1,10 @@
 #include <iostream>
 using namespace std;
 int main(){
+
 // deklarasi tipe data
 
-int s;
-int t;
-int hasil;
+int s, t, hasil;
 
 // banner
 
